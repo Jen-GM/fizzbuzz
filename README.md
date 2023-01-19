@@ -24,7 +24,7 @@ To keep runnning the tests:
 $ npm run test:watch
 ```
 
-### For the tests:
+### For running the program:
 ```
 $ node fizzbuzz
 ```
