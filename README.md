@@ -9,7 +9,7 @@
 ## Using jest
 
 Using Jest to test the exercise.
-Added "test:watch":"jest --watchAll",  so it will continue testing while doing the changes.
+Added to the package.json "test:watch":"jest --watchAll",  so it will be automatically testing while doing the changes.
 
 
 
